@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- Sobre mi  -->
 Buen dia gracias por visitar mi pagina.
 
-Soy Oscar Mariño y como todos aqui nos gusta la programacion. Aunque no ha sido si especializacion siempre lo he usado un poco. Pero ahora estoy aprendiendo python y me gustaria realizar proyectos para seguir mejorando profesionalmente con la finalidad de ir mejorando.
+💬 Soy Oscar Mariño y como todos aqui nos gusta la programacion. Aunque no ha sido mi especializacion siempre lo he usado un poco. Pero ahora estoy aprendiendo python y me gustaria mejorar para poder realizar colaboraciones y trabajar en el area
 
 Durante 10 años trabaje para una empresa partnert de Avaya y realice dos programas cuya finalidad era tomar de un archivo txt y uno era colocarlo en el Site Administration (programa de administracion y configuracion de la PBX), para generar reportes y el otro para el CMS (Programa de administracion del call center), para crear modificar y eliminar los agentes.
 
@@ -25,13 +25,28 @@ Aunque sencillos fueron de mucha utilidad. Cuando hablamos de una pbx o 5 agente
 
 Si quieren ver uno de ellos pueden ver este video https://www.youtube.com/watch?v=t3jD-r4VtZM
 
+<!--  I’m currently working on ...  -->
 
+Actualmente trabajo para un call center para una agencia de viaje. Unas de las funciones principales es mantener la operacion de la misma, ademas de colaborar con los clientes en las aplicaciones web de la compañia
+
+<!-- Estudios  -->
+
+Actualmente estoy realizando programa de desarrollo Full Stack para mejorar mis habilidades y poder lograr mis metas
+
+<!-- Sobre mi  -->
 Good morning, thanks for visiting my page.
 
-I'm Oscar Mariño and like everyone here we like programming. Although it has not been if specialization I have always used it a little. But now I am learning python and I would like to carry out projects to continue improving professionally in order to improve.
+I'm Oscar Mariño and like everyone here we like programming. Although it has not been my specialization I have always used it a little. But now I am learning python and I would like to improve to be able to collaborate and work in the area
 
 For 10 years I worked for an Avaya partner company and carried out two programs whose purpose was to take a txt file and one was to place it in the Site Administration (PBX administration and configuration program), to generate reports and the other for the CMS (Call center administration program), to create, modify and eliminate agents.
 
 Although simple they were very useful. When we talk about a pbx or 5 agents there is not much difference but when we talk about a support company that supports more than 20 clients of which 5 have a call center of more than 40 people and changes had to be made every day are good solutions that facilitated the management and the most important thing to avoid errors in repetitive works that over time become annoying
 
 If you want to see one of them you can see this video https://www.youtube.com/watch?v=t3jD-r4VtZM
+
+<!--  I’m currently working on ...  -->
+
+Actualmente trabajo para un call center para una agencia de viaje. Unas de las funciones principales es mantener la operacion de la misma, ademas de colaborar con los clientes en las aplicaciones web de la compañia
+
+<!-- Estudios  -->
+I am currently doing a Full Stack development program to improve my skills and achieve my goals.
